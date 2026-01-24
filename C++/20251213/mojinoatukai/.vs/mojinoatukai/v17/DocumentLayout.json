@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VantanGameAcademy\\Cplus_zen\\20251213\\mojinoatukai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF79CF4-F6CE-40C1-AD31-489D9E0D7E50}|mojinoatukai.vcxproj|E:\\VantanGameAcademy\\Cplus_zen\\20251213\\mojinoatukai\\mojinoatukai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FF79CF4-F6CE-40C1-AD31-489D9E0D7E50}|mojinoatukai.vcxproj|solutionrelative:mojinoatukai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mojinoatukai.cpp",
+              "DocumentMoniker": "E:\\VantanGameAcademy\\Cplus_zen\\20251213\\mojinoatukai\\mojinoatukai.cpp",
+              "RelativeDocumentMoniker": "mojinoatukai.cpp",
+              "ToolTip": "E:\\VantanGameAcademy\\Cplus_zen\\20251213\\mojinoatukai\\mojinoatukai.cpp",
+              "RelativeToolTip": "mojinoatukai.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-13T09:17:22.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VantanGameAcademy\\Cplus_zen\\20251124\\kataHenkan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97EE9399-29AD-4D95-9212-D4F61246B7F3}|kataHenkan.vcxproj|E:\\VantanGameAcademy\\Cplus_zen\\20251124\\kataHenkan\\kataHenkan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97EE9399-29AD-4D95-9212-D4F61246B7F3}|kataHenkan.vcxproj|solutionrelative:kataHenkan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kataHenkan.cpp",
+              "DocumentMoniker": "E:\\VantanGameAcademy\\Cplus_zen\\20251124\\kataHenkan\\kataHenkan.cpp",
+              "RelativeDocumentMoniker": "kataHenkan.cpp",
+              "ToolTip": "E:\\VantanGameAcademy\\Cplus_zen\\20251124\\kataHenkan\\kataHenkan.cpp",
+              "RelativeToolTip": "kataHenkan.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T09:41:51.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

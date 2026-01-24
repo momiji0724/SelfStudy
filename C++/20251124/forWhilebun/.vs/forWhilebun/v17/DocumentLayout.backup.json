@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VantanGameAcademy\\Cplus_zen\\20251124\\forWhilebun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{747EF5BD-B1F8-40D1-A9D6-ADE384AAB9C2}|forWhilebun.vcxproj|E:\\VantanGameAcademy\\Cplus_zen\\20251124\\forWhilebun\\forWhilebun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{747EF5BD-B1F8-40D1-A9D6-ADE384AAB9C2}|forWhilebun.vcxproj|solutionrelative:forWhilebun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "forWhilebun.cpp",
+              "DocumentMoniker": "E:\\VantanGameAcademy\\Cplus_zen\\20251124\\forWhilebun\\forWhilebun.cpp",
+              "RelativeDocumentMoniker": "forWhilebun.cpp",
+              "ToolTip": "E:\\VantanGameAcademy\\Cplus_zen\\20251124\\forWhilebun\\forWhilebun.cpp",
+              "RelativeToolTip": "forWhilebun.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T12:53:39.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

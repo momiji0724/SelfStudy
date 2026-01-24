@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VantanGameAcademy\\Cplus_zen\\20251213\\yomikomiKakidashi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEB447B-06B9-4359-A331-D456D73F1E2A}|yomikomiKakidashi.vcxproj|E:\\VantanGameAcademy\\Cplus_zen\\20251213\\yomikomiKakidashi\\yomikomiKakidashi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FEB447B-06B9-4359-A331-D456D73F1E2A}|yomikomiKakidashi.vcxproj|solutionrelative:yomikomiKakidashi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "yomikomiKakidashi.cpp",
+              "DocumentMoniker": "E:\\VantanGameAcademy\\Cplus_zen\\20251213\\yomikomiKakidashi\\yomikomiKakidashi.cpp",
+              "RelativeDocumentMoniker": "yomikomiKakidashi.cpp",
+              "ToolTip": "E:\\VantanGameAcademy\\Cplus_zen\\20251213\\yomikomiKakidashi\\yomikomiKakidashi.cpp",
+              "RelativeToolTip": "yomikomiKakidashi.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-13T13:19:15.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

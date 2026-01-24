@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VantanGameAcademy\\Cplus_zen\\20260121\\test03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4A70E1-0619-4888-B762-648A43F019F6}|test03.vcxproj|E:\\VantanGameAcademy\\Cplus_zen\\20260121\\test03\\test03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A4A70E1-0619-4888-B762-648A43F019F6}|test03.vcxproj|solutionrelative:test03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test03.cpp",
+              "DocumentMoniker": "E:\\VantanGameAcademy\\Cplus_zen\\20260121\\test03\\test03.cpp",
+              "RelativeDocumentMoniker": "test03.cpp",
+              "ToolTip": "E:\\VantanGameAcademy\\Cplus_zen\\20260121\\test03\\test03.cpp",
+              "RelativeToolTip": "test03.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-21T14:18:45.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

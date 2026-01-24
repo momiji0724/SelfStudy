@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VantanGameAcademy\\Cplus_zen\\20251231\\ClassInstance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D23B408-F8D9-4184-A6EF-EE3F2065CBF8}|ClassInstance.vcxproj|E:\\VantanGameAcademy\\Cplus_zen\\20251231\\ClassInstance\\ClassInstance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D23B408-F8D9-4184-A6EF-EE3F2065CBF8}|ClassInstance.vcxproj|solutionrelative:ClassInstance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D23B408-F8D9-4184-A6EF-EE3F2065CBF8}|ClassInstance.vcxproj|E:\\VantanGameAcademy\\Cplus_zen\\20251231\\ClassInstance\\Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D23B408-F8D9-4184-A6EF-EE3F2065CBF8}|ClassInstance.vcxproj|solutionrelative:Date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D23B408-F8D9-4184-A6EF-EE3F2065CBF8}|ClassInstance.vcxproj|E:\\VantanGameAcademy\\Cplus_zen\\20251231\\ClassInstance\\Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D23B408-F8D9-4184-A6EF-EE3F2065CBF8}|ClassInstance.vcxproj|solutionrelative:Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassInstance.cpp",
+              "DocumentMoniker": "E:\\VantanGameAcademy\\Cplus_zen\\20251231\\ClassInstance\\ClassInstance.cpp",
+              "RelativeDocumentMoniker": "ClassInstance.cpp",
+              "ToolTip": "E:\\VantanGameAcademy\\Cplus_zen\\20251231\\ClassInstance\\ClassInstance.cpp",
+              "RelativeToolTip": "ClassInstance.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-31T08:23:36.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Date.h",
+              "DocumentMoniker": "E:\\VantanGameAcademy\\Cplus_zen\\20251231\\ClassInstance\\Date.h",
+              "RelativeDocumentMoniker": "Date.h",
+              "ToolTip": "E:\\VantanGameAcademy\\Cplus_zen\\20251231\\ClassInstance\\Date.h",
+              "RelativeToolTip": "Date.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-31T08:24:47.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Date.cpp",
+              "DocumentMoniker": "E:\\VantanGameAcademy\\Cplus_zen\\20251231\\ClassInstance\\Date.cpp",
+              "RelativeDocumentMoniker": "Date.cpp",
+              "ToolTip": "E:\\VantanGameAcademy\\Cplus_zen\\20251231\\ClassInstance\\Date.cpp",
+              "RelativeToolTip": "Date.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-31T08:26:28.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

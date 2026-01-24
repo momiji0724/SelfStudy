@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VantanGameAcademy\\Cplus_zen\\20251124\\enzanshi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C45D3A23-31CA-4C4F-B8FD-3E4D3ED10719}|enzanshi.vcxproj|E:\\VantanGameAcademy\\Cplus_zen\\20251124\\enzanshi\\enzanshi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C45D3A23-31CA-4C4F-B8FD-3E4D3ED10719}|enzanshi.vcxproj|solutionrelative:enzanshi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "enzanshi.cpp",
+              "DocumentMoniker": "E:\\VantanGameAcademy\\Cplus_zen\\20251124\\enzanshi\\enzanshi.cpp",
+              "RelativeDocumentMoniker": "enzanshi.cpp",
+              "ToolTip": "E:\\VantanGameAcademy\\Cplus_zen\\20251124\\enzanshi\\enzanshi.cpp*",
+              "RelativeToolTip": "enzanshi.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T08:29:17.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
