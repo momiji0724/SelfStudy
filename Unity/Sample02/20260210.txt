@@ -1,0 +1,41 @@
+20260210
+Sample.cs
+オブジェクトをx,y,zに入れた数値の分移動
+例:xに2移動
+transform.Translate(2,y,z)
+
+オブジェクトをx,y,zに入れた数値の角度分回転
+例:y軸に40度
+transform.Rotate(0,40,0);
+
+オブジェクトをx,y,zに入れた数値の割合で拡大縮小
+例:全体的に2倍
+transform.localScale = new Vector3(2,2,2);
+
+------------
+
+Sample02.cs
+スクリプトからゲームオブジェクトを作成することができる
+PrimitiveType.の後にUnityの既定の図形名を入れる
+GameObject.CreatePrimitive(PrimitiveType.Cube);
+
+スクリプト内で作成した図形は変数に格納することで動かすことが可能
+
+.nameとすればゲームオブジェクトに名前を付けることができる
+cube.name = "Cube(Created)";
+
+------------
+
+Sample03.cs
+スクリプト上から実行時にアセットを読み込むことができる。
+オブジェクトがない状態でスクリプトを実行したい場合Create Emptyを作成し
+ヒエラルキーにスクリプトを挿入する場所を作っておく
+
+プレハブからゲームオブジェクトを生成する。
+
+        var prefab = Resources.Load<GameObject>
+            ("unity-chan!/Unity-chan! Model/Prefabs/unitychan");
+        Instantiate(prefab);
+
+Resourcesフォルダ内にプレハブを格納しておく。
+ゲーム画面に出すにはInstantiateが必要。
