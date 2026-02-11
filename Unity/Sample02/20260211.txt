@@ -1,0 +1,27 @@
+20260211
+
+Sample04
+Update()メソッドはフレーム毎に呼び出されるメソッド
+例:1フレームにy軸に1度回転する
+transform.Rotate(0, 1, 0);
+Updateメソッドに処理を書きすぎるとゲームが重くなるため、工夫が必要
+
+Sample05
+プログラム外でパラメータの値を編集したい際は
+publicにするかSerializeField属性をつける
+オブジェクト指向の関係でpublicにしておくのは好ましくないため
+非公開のフィールドを設定しておく方が良い
+
+Sample06
+スクリプトから入力を感知するにはInputクラスを使用する
+ボタンなどの操作があるとTrueを返すクラスなのでif内に入れて使用する
+
+例:
+スペースを押してる間ずっと継続
+Input.GetKey(KeyCode.Space)
+
+スペースを押したとき一回
+Input.GetKeyDown(KeyCode.Space)
+
+スペースを離したとき一回
+Input.GetKeyUp(KeyCode.Space)
